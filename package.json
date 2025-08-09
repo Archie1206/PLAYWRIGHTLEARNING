@@ -1,0 +1,25 @@
+{
+  "name": "playwrightlearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArchitSingh12/PLAYWRIGHTLEARNING.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArchitSingh12/PLAYWRIGHTLEARNING/issues"
+  },
+  "homepage": "https://github.com/ArchitSingh12/PLAYWRIGHTLEARNING#readme",
+  "dependencies": {
+    "playwright": "^1.54.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.1"
+  }
+}
