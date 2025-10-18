@@ -14,7 +14,7 @@ let calculateTotalAmount(principal, rate, time) => {
     */
 
 function printValue(){
-
+console.log()
 }
 
 let total = calculateTotalAmount(1000 * 8 * 1);

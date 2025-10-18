@@ -1,0 +1,44 @@
+function orderFood(){
+    return new Promise((resolve, reject) => {    
+        setTimeout(()=>{
+        console.log("User order food");
+        resolve();
+    },1000);
+    });
+}
+
+function prepareFood(){
+    return new Promise((resolve, reject) => {    
+        setTimeout(()=>{
+        console.log("Restaurant prepare food");
+        resolve();
+    },10000);
+    });
+}
+
+function delivery(){
+    return new Promise((resolve, reject) => {
+        setTimeout(()=>{
+        console.log("Order is delievered to the customer");
+        resolve();
+    },10000);
+    });
+}
+
+function rating(){
+    return new Promise((resolve, reject) => {
+        setTimeout(()=>{
+        console.log("User gives 5 star rating");
+        resolve();
+    },2000);
+    });
+}
+
+orderFood()
+.then(() => prepareFood())
+.then(() => delivery())
+.then(() => rating())
+.finally(() => {
+    console.log("Process completed !!!")
+}
+)
