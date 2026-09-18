@@ -20,7 +20,12 @@
     "prompt-sync": "^4.2.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.54.2",
-    "@types/node": "^24.2.1"
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^24.2.1",
+    "merv-client": "^4.0.23",
+    "merv-client-playwright": "^4.0.23"
+  },
+  "directories": {
+    "test": "tests"
   }
 }

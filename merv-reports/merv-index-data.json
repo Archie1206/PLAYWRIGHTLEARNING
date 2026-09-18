@@ -1,0 +1,107 @@
+{
+  "generatedAt": 1789053978493,
+  "folders": [
+    "10-09-2026%2020-56-09%20Merv-Report",
+    "10-09-2026%2020-55-11%20Merv-Report",
+    "10-09-2026%2020-52-58%20Merv-Report",
+    "08-09-2026%2021-15-54%20Merv-Report",
+    "08-09-2026%2021-13-39%20Merv-Report"
+  ],
+  "entries": [
+    {
+      "folderName": "10-09-2026 20-56-09 Merv-Report",
+      "encodedFolderName": "10-09-2026%2020-56-09%20Merv-Report",
+      "lastModified": 1789053978488.5195,
+      "hasFinal": true,
+      "hasLive": true,
+      "title": "playwrightlearning",
+      "total": 12,
+      "pass": 12,
+      "fail": 0,
+      "skip": 0,
+      "tags": [
+        "chromium",
+        "firefox",
+        "webkit"
+      ],
+      "tagsDisplay": "chromium firefox webkit",
+      "running": false
+    },
+    {
+      "folderName": "10-09-2026 20-55-11 Merv-Report",
+      "encodedFolderName": "10-09-2026%2020-55-11%20Merv-Report",
+      "lastModified": 1789053920431.5154,
+      "hasFinal": true,
+      "hasLive": true,
+      "title": "playwrightlearning",
+      "total": 12,
+      "pass": 12,
+      "fail": 0,
+      "skip": 0,
+      "tags": [
+        "chromium",
+        "firefox",
+        "webkit"
+      ],
+      "tagsDisplay": "chromium firefox webkit",
+      "running": false
+    },
+    {
+      "folderName": "10-09-2026 20-52-58 Merv-Report",
+      "encodedFolderName": "10-09-2026%2020-52-58%20Merv-Report",
+      "lastModified": 1789053789173.546,
+      "hasFinal": true,
+      "hasLive": true,
+      "title": "playwrightlearning",
+      "total": 12,
+      "pass": 12,
+      "fail": 0,
+      "skip": 0,
+      "tags": [
+        "firefox",
+        "chromium",
+        "webkit"
+      ],
+      "tagsDisplay": "firefox chromium webkit",
+      "running": false
+    },
+    {
+      "folderName": "08-09-2026 21-15-54 Merv-Report",
+      "encodedFolderName": "08-09-2026%2021-15-54%20Merv-Report",
+      "lastModified": 1788882376668.372,
+      "hasFinal": true,
+      "hasLive": true,
+      "title": "playwrightlearning",
+      "total": 9,
+      "pass": 9,
+      "fail": 0,
+      "skip": 0,
+      "tags": [
+        "chromium",
+        "firefox",
+        "webkit"
+      ],
+      "tagsDisplay": "chromium firefox webkit",
+      "running": false
+    },
+    {
+      "folderName": "08-09-2026 21-13-39 Merv-Report",
+      "encodedFolderName": "08-09-2026%2021-13-39%20Merv-Report",
+      "lastModified": 1788882248756.234,
+      "hasFinal": true,
+      "hasLive": true,
+      "title": "playwrightlearning",
+      "total": 9,
+      "pass": 0,
+      "fail": 9,
+      "skip": 0,
+      "tags": [
+        "chromium",
+        "firefox",
+        "webkit"
+      ],
+      "tagsDisplay": "chromium firefox webkit",
+      "running": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{"ts":"2026-09-08T15:43:39.351Z","level":"INFO","name":"Merv","msg":"Suite started — playwrightlearning","suite":"playwrightlearning"}
+{"ts":"2026-09-08T15:43:40.528Z","level":"INFO","name":"Merv","msg":"Hook: test start — should submit the form successfully"}
+{"ts":"2026-09-08T15:43:40.529Z","level":"INFO","name":"Merv","msg":"Hook: test start — has title"}
+{"ts":"2026-09-08T15:43:40.532Z","level":"INFO","name":"Merv","msg":"Hook: test start — has title"}
+{"ts":"2026-09-08T15:43:40.559Z","level":"INFO","name":"Merv","msg":"Hook: test end — should submit the form successfully"}
+{"ts":"2026-09-08T15:43:40.560Z","level":"INFO","name":"Merv","msg":"Hook: test end — has title"}
+{"ts":"2026-09-08T15:43:40.556Z","level":"INFO","name":"Merv","msg":"Hook: test start — get started link"}
+{"ts":"2026-09-08T15:43:40.562Z","level":"INFO","name":"Merv","msg":"Hook: test end — has title"}
+{"ts":"2026-09-08T15:43:40.562Z","level":"INFO","name":"Merv","msg":"Hook: test start — has title"}
+{"ts":"2026-09-08T15:43:40.569Z","level":"INFO","name":"Merv","msg":"Hook: test start — should submit the form successfully"}
+{"ts":"2026-09-08T15:43:40.566Z","level":"INFO","name":"Merv","msg":"Hook: test start — get started link"}
+{"ts":"2026-09-08T15:43:40.573Z","level":"INFO","name":"Merv","msg":"Hook: test start — get started link"}
+{"ts":"2026-09-08T15:43:40.578Z","level":"INFO","name":"Merv","msg":"Hook: test start — should submit the form successfully"}
+{"ts":"2026-09-08T15:43:40.593Z","level":"INFO","name":"Merv","msg":"Hook: test end — has title"}
+{"ts":"2026-09-08T15:43:40.596Z","level":"INFO","name":"Merv","msg":"Hook: test end — get started link"}
+{"ts":"2026-09-08T15:43:40.600Z","level":"INFO","name":"Merv","msg":"Hook: test end — should submit the form successfully"}
+{"ts":"2026-09-08T15:43:40.601Z","level":"INFO","name":"Merv","msg":"Hook: test end — get started link"}
+{"ts":"2026-09-08T15:43:40.602Z","level":"INFO","name":"Merv","msg":"Hook: test end — get started link"}
+{"ts":"2026-09-08T15:43:40.605Z","level":"INFO","name":"Merv","msg":"Hook: test end — should submit the form successfully"}
+{"ts":"2026-09-08T15:43:40.792Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-08T15:43:40.813Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › has title"}
+{"ts":"2026-09-08T15:43:40.820Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › has title"}
+{"ts":"2026-09-08T15:43:40.829Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › get started link"}
+{"ts":"2026-09-08T15:43:40.836Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › get started link"}
+{"ts":"2026-09-08T15:43:40.844Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › get started link"}
+{"ts":"2026-09-08T15:43:40.862Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-08T15:43:40.875Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › has title"}
+{"ts":"2026-09-08T15:43:40.887Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-08T15:43:41.362Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › form.spec.ts › should submit the form successfully (FAILED)","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-08T15:43:41.382Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › example.spec.ts › has title (FAILED)","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › has title"}
+{"ts":"2026-09-08T15:43:41.386Z","level":"ERROR","name":"Merv","msg":"Test finished —  › firefox › example.spec.ts › has title (FAILED)","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › has title"}
+{"ts":"2026-09-08T15:43:41.391Z","level":"ERROR","name":"Merv","msg":"Test finished —  › webkit › example.spec.ts › get started link (FAILED)","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › get started link"}
+{"ts":"2026-09-08T15:43:41.396Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › example.spec.ts › get started link (FAILED)","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › get started link"}
+{"ts":"2026-09-08T15:43:41.400Z","level":"ERROR","name":"Merv","msg":"Test finished —  › firefox › example.spec.ts › get started link (FAILED)","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › get started link"}
+{"ts":"2026-09-08T15:43:41.406Z","level":"ERROR","name":"Merv","msg":"Test finished —  › webkit › form.spec.ts › should submit the form successfully (FAILED)","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-08T15:43:41.411Z","level":"ERROR","name":"Merv","msg":"Test finished —  › webkit › example.spec.ts › has title (FAILED)","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › has title"}
+{"ts":"2026-09-08T15:43:41.417Z","level":"ERROR","name":"Merv","msg":"Test finished —  › firefox › form.spec.ts › should submit the form successfully (FAILED)","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}

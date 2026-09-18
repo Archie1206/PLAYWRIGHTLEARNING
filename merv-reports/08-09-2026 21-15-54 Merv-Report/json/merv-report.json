@@ -1,0 +1,832 @@
+{
+  "version": "1.0",
+  "running": false,
+  "lastActivityMillis": 1788882370323,
+  "exportDate": "Tue Sep 08 2026 21:16:10 GMT+0530 (India Standard Time)",
+  "testSuite": {
+    "title": "playwrightlearning",
+    "startTime": "2026-09-08T15:45:54.630Z",
+    "endTime": "2026-09-08T15:46:10.323Z",
+    "testCases": [
+      {
+        "testcaseName": " › chromium › example.spec.ts › has title",
+        "status": "PASSED",
+        "failureReason": null,
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:45:55.775Z",
+        "endTime": "2026-09-08T15:46:06.124Z",
+        "executionMachine": "MSI",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:55.854Z",
+            "endTime": "2026-09-08T15:45:58.862Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"context\" › Create context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:58.865Z",
+            "endTime": "2026-09-08T15:45:58.894Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"page\" › Create page",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:58.897Z",
+            "endTime": "2026-09-08T15:45:59.693Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Navigate",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:59.705Z",
+            "endTime": "2026-09-08T15:46:08.979Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Expect \"toHaveTitle\"",
+            "stepType": "EXPECT",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:09.003Z",
+            "endTime": "2026-09-08T15:46:09.131Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "After Hooks › Fixture \"context\" › Close context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:09.170Z",
+            "endTime": "2026-09-08T15:46:09.188Z",
+            "errorMessage": null,
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › chromium › example.spec.ts › get started link",
+        "status": "PASSED",
+        "failureReason": null,
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:45:55.786Z",
+        "endTime": "2026-09-08T15:46:06.405Z",
+        "executionMachine": "MSI",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:55.872Z",
+            "endTime": "2026-09-08T15:45:58.861Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"context\" › Create context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:58.865Z",
+            "endTime": "2026-09-08T15:45:58.893Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"page\" › Create page",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:58.896Z",
+            "endTime": "2026-09-08T15:45:59.693Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Navigate",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:59.709Z",
+            "endTime": "2026-09-08T15:46:08.978Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Click",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:09.003Z",
+            "endTime": "2026-09-08T15:46:09.237Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Expect \"toBeVisible\"",
+            "stepType": "EXPECT",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:09.249Z",
+            "endTime": "2026-09-08T15:46:09.377Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "After Hooks › Fixture \"context\" › Close context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:09.440Z",
+            "endTime": "2026-09-08T15:46:09.456Z",
+            "errorMessage": null,
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › firefox › example.spec.ts › has title",
+        "status": "PASSED",
+        "failureReason": null,
+        "tags": [
+          "firefox"
+        ],
+        "startTime": "2026-09-08T15:45:55.787Z",
+        "endTime": "2026-09-08T15:46:00.453Z",
+        "executionMachine": "MSI",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:55.872Z",
+            "endTime": "2026-09-08T15:45:59.387Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"context\" › Create context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:59.393Z",
+            "endTime": "2026-09-08T15:45:59.893Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"page\" › Create page",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:59.896Z",
+            "endTime": "2026-09-08T15:46:01.974Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Navigate",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:02.026Z",
+            "endTime": "2026-09-08T15:46:03.489Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Expect \"toHaveTitle\"",
+            "stepType": "EXPECT",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:03.509Z",
+            "endTime": "2026-09-08T15:46:03.912Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "After Hooks › Fixture \"context\" › Close context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:03.948Z",
+            "endTime": "2026-09-08T15:46:04.021Z",
+            "errorMessage": null,
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › firefox › example.spec.ts › get started link",
+        "status": "PASSED",
+        "failureReason": null,
+        "tags": [
+          "firefox"
+        ],
+        "startTime": "2026-09-08T15:45:55.828Z",
+        "endTime": "2026-09-08T15:46:02.518Z",
+        "executionMachine": "MSI",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:55.914Z",
+            "endTime": "2026-09-08T15:45:58.057Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"context\" › Create context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:58.060Z",
+            "endTime": "2026-09-08T15:45:58.498Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"page\" › Create page",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:58.502Z",
+            "endTime": "2026-09-08T15:46:01.955Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Navigate",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:02.004Z",
+            "endTime": "2026-09-08T15:46:03.472Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Click",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:03.494Z",
+            "endTime": "2026-09-08T15:46:04.186Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Expect \"toBeVisible\"",
+            "stepType": "EXPECT",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:04.201Z",
+            "endTime": "2026-09-08T15:46:04.592Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "After Hooks › Fixture \"context\" › Close context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:04.662Z",
+            "endTime": "2026-09-08T15:46:04.721Z",
+            "errorMessage": null,
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › chromium › form.spec.ts › should submit the form successfully",
+        "status": "PASSED",
+        "failureReason": null,
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:45:55.838Z",
+        "endTime": "2026-09-08T15:46:06.244Z",
+        "executionMachine": "MSI",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › beforeEach hook › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:55.929Z",
+            "endTime": "2026-09-08T15:45:58.861Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › beforeEach hook › Fixture \"context\" › Create context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:58.865Z",
+            "endTime": "2026-09-08T15:45:58.892Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › beforeEach hook › Fixture \"page\" › Create page",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:58.896Z",
+            "endTime": "2026-09-08T15:45:59.693Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › beforeEach hook › Navigate",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:59.708Z",
+            "endTime": "2026-09-08T15:46:07.451Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Click",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:07.734Z",
+            "endTime": "2026-09-08T15:46:08.844Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Expect \"toHaveTitle\"",
+            "stepType": "EXPECT",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:08.894Z",
+            "endTime": "2026-09-08T15:46:08.973Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"John\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:09.001Z",
+            "endTime": "2026-09-08T15:46:09.061Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"rana.archit12@gmail.com\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:09.078Z",
+            "endTime": "2026-09-08T15:46:09.102Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"Password123\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:09.113Z",
+            "endTime": "2026-09-08T15:46:09.145Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"8826448600\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:09.157Z",
+            "endTime": "2026-09-08T15:46:09.169Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Hover",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:09.177Z",
+            "endTime": "2026-09-08T15:46:09.229Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"25\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:09.235Z",
+            "endTime": "2026-09-08T15:46:09.254Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "After Hooks › Fixture \"context\" › Close context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:09.273Z",
+            "endTime": "2026-09-08T15:46:09.279Z",
+            "errorMessage": null,
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › firefox › form.spec.ts › should submit the form successfully",
+        "status": "PASSED",
+        "failureReason": null,
+        "tags": [
+          "firefox"
+        ],
+        "startTime": "2026-09-08T15:45:55.843Z",
+        "endTime": "2026-09-08T15:45:59.951Z",
+        "executionMachine": "MSI",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › beforeEach hook › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:55.932Z",
+            "endTime": "2026-09-08T15:46:00.800Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › beforeEach hook › Fixture \"context\" › Create context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:00.805Z",
+            "endTime": "2026-09-08T15:46:00.995Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › beforeEach hook › Fixture \"page\" › Create page",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:00.999Z",
+            "endTime": "2026-09-08T15:46:02.028Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › beforeEach hook › Navigate",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:02.056Z",
+            "endTime": "2026-09-08T15:46:03.114Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Click",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:03.140Z",
+            "endTime": "2026-09-08T15:46:03.994Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Expect \"toHaveTitle\"",
+            "stepType": "EXPECT",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:04.018Z",
+            "endTime": "2026-09-08T15:46:04.090Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"John\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:04.103Z",
+            "endTime": "2026-09-08T15:46:04.168Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"rana.archit12@gmail.com\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:04.176Z",
+            "endTime": "2026-09-08T15:46:04.263Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"Password123\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:04.269Z",
+            "endTime": "2026-09-08T15:46:04.384Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"8826448600\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:04.390Z",
+            "endTime": "2026-09-08T15:46:04.458Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Hover",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:04.466Z",
+            "endTime": "2026-09-08T15:46:04.634Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"25\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:04.649Z",
+            "endTime": "2026-09-08T15:46:04.788Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "After Hooks › Fixture \"context\" › Close context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:04.812Z",
+            "endTime": "2026-09-08T15:46:04.880Z",
+            "errorMessage": null,
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › webkit › example.spec.ts › has title",
+        "status": "PASSED",
+        "failureReason": null,
+        "tags": [
+          "webkit"
+        ],
+        "startTime": "2026-09-08T15:45:55.845Z",
+        "endTime": "2026-09-08T15:45:58.614Z",
+        "executionMachine": "MSI",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:55.935Z",
+            "endTime": "2026-09-08T15:45:56.427Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"context\" › Create context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:56.430Z",
+            "endTime": "2026-09-08T15:45:56.539Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"page\" › Create page",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:56.542Z",
+            "endTime": "2026-09-08T15:45:57.891Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Navigate",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:57.904Z",
+            "endTime": "2026-09-08T15:45:58.926Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Expect \"toHaveTitle\"",
+            "stepType": "EXPECT",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:58.946Z",
+            "endTime": "2026-09-08T15:45:59.107Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "After Hooks › Fixture \"context\" › Close context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:59.130Z",
+            "endTime": "2026-09-08T15:45:59.164Z",
+            "errorMessage": null,
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › webkit › example.spec.ts › get started link",
+        "status": "PASSED",
+        "failureReason": null,
+        "tags": [
+          "webkit"
+        ],
+        "startTime": "2026-09-08T15:45:55.868Z",
+        "endTime": "2026-09-08T15:46:00.225Z",
+        "executionMachine": "MSI",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:55.955Z",
+            "endTime": "2026-09-08T15:45:56.426Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"context\" › Create context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:56.430Z",
+            "endTime": "2026-09-08T15:45:56.538Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"page\" › Create page",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:56.541Z",
+            "endTime": "2026-09-08T15:45:57.891Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Navigate",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:57.902Z",
+            "endTime": "2026-09-08T15:45:58.926Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Click",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:58.939Z",
+            "endTime": "2026-09-08T15:46:00.182Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Expect \"toBeVisible\"",
+            "stepType": "EXPECT",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:00.194Z",
+            "endTime": "2026-09-08T15:46:00.718Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "After Hooks › Fixture \"context\" › Close context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:00.738Z",
+            "endTime": "2026-09-08T15:46:00.759Z",
+            "errorMessage": null,
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › webkit › form.spec.ts › should submit the form successfully",
+        "status": "PASSED",
+        "failureReason": null,
+        "tags": [
+          "webkit"
+        ],
+        "startTime": "2026-09-08T15:45:55.879Z",
+        "endTime": "2026-09-08T15:45:59.973Z",
+        "executionMachine": "MSI",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › beforeEach hook › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:55.959Z",
+            "endTime": "2026-09-08T15:45:56.428Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › beforeEach hook › Fixture \"context\" › Create context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:56.431Z",
+            "endTime": "2026-09-08T15:45:56.539Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › beforeEach hook › Fixture \"page\" › Create page",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:56.541Z",
+            "endTime": "2026-09-08T15:45:57.891Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › beforeEach hook › Navigate",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:57.901Z",
+            "endTime": "2026-09-08T15:45:58.340Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Click",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:58.351Z",
+            "endTime": "2026-09-08T15:45:59.038Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Expect \"toHaveTitle\"",
+            "stepType": "EXPECT",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:59.047Z",
+            "endTime": "2026-09-08T15:45:59.220Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"John\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:59.228Z",
+            "endTime": "2026-09-08T15:45:59.373Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"rana.archit12@gmail.com\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:59.378Z",
+            "endTime": "2026-09-08T15:45:59.526Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"Password123\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:59.531Z",
+            "endTime": "2026-09-08T15:45:59.681Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"8826448600\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:59.688Z",
+            "endTime": "2026-09-08T15:45:59.867Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Hover",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:45:59.872Z",
+            "endTime": "2026-09-08T15:46:00.315Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Fill \"25\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:00.322Z",
+            "endTime": "2026-09-08T15:46:00.453Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "After Hooks › Fixture \"context\" › Close context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-08T15:46:00.470Z",
+            "endTime": "2026-09-08T15:46:00.501Z",
+            "errorMessage": null,
+            "screenshots": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{"ts":"2026-09-10T15:22:58.493Z","level":"INFO","name":"Merv","msg":"Suite started — playwrightlearning","suite":"playwrightlearning"}
+{"ts":"2026-09-10T15:22:59.946Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:22:59.961Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:22:59.975Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:22:59.990Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:00.120Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"context\" › Create context","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:00.131Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:00.143Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:00.156Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"context\" › Create context","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:00.277Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:00.425Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:00.482Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"page\" › Create page","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:00.495Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"page\" › Create page","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:00.510Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:00.523Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:00.656Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:00.667Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:00.681Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:00.693Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:00.833Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:00.861Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"context\" › Create context","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:00.879Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"context\" › Create context","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:00.895Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:00.924Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:01.109Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"context\" › Create context","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:01.392Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:01.637Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"context\" › Create context","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:01.897Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:02.080Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:02.158Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:02.207Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"page\" › Create page","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:02.564Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"page\" › Create page","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:02.837Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:02.871Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Navigate","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:03.037Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Navigate","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:03.111Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:03.315Z","level":"INFO","name":"Merv","msg":"Expect \"toHaveTitle\"","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:03.376Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:03.419Z","level":"INFO","name":"Merv","msg":"Test finished —  › firefox › example.spec.ts › has title (PASSED)","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:03.682Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:03.721Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:03.736Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"page\" › Create page","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:03.746Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Fixture \"page\" › Create page","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:03.758Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:03.981Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Navigate","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:03.992Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.004Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Navigate","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:04.073Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:04.091Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:04.163Z","level":"INFO","name":"Merv","msg":"Expect \"toHaveTitle\"","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.231Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:04.255Z","level":"INFO","name":"Merv","msg":"Fill \"John\"","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.332Z","level":"INFO","name":"Merv","msg":"Fill \"rana.archit12@gmail.com\"","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.394Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:04.408Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:04.430Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.444Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:04.465Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:04.505Z","level":"INFO","name":"Merv","msg":"Fill \"Password123\"","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.526Z","level":"INFO","name":"Merv","msg":"Expect \"toHaveTitle\"","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:04.552Z","level":"INFO","name":"Merv","msg":"Expect \"toHaveTitle\"","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.628Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:04.658Z","level":"INFO","name":"Merv","msg":"Fill \"8826448600\"","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.676Z","level":"INFO","name":"Merv","msg":"Fill \"John\"","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.691Z","level":"INFO","name":"Merv","msg":"Test finished —  › webkit › example.spec.ts › has title (PASSED)","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:04.695Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:04.768Z","level":"INFO","name":"Merv","msg":"Fill \"rana.archit12@gmail.com\"","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.794Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:04.807Z","level":"INFO","name":"Merv","msg":"Hover","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.871Z","level":"INFO","name":"Merv","msg":"Fill \"25\"","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.907Z","level":"INFO","name":"Merv","msg":"Fill \"Password123\"","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.975Z","level":"INFO","name":"Merv","msg":"Fill \"8826448600\"","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:04.991Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:05.023Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:05.077Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:05.093Z","level":"INFO","name":"Merv","msg":"Test finished —  › firefox › form.spec.ts › should submit the form successfully (PASSED)","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:05.112Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:05.148Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:05.179Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:05.198Z","level":"INFO","name":"Merv","msg":"Hover","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:05.246Z","level":"INFO","name":"Merv","msg":"Fill \"25\"","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:05.331Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:05.348Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:05.393Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:05.428Z","level":"INFO","name":"Merv","msg":"Expect \"toBeVisible\"","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:05.467Z","level":"INFO","name":"Merv","msg":"Expect \"toBeVisible\"","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:05.483Z","level":"INFO","name":"Merv","msg":"Test finished —  › webkit › form.spec.ts › should submit the form successfully (PASSED)","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:05.581Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:05.636Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:05.652Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:05.699Z","level":"INFO","name":"Merv","msg":"Test finished —  › firefox › example.spec.ts › get started link (PASSED)","suite":"playwrightlearning","testcase":"› firefox › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:05.703Z","level":"INFO","name":"Merv","msg":"Test finished —  › webkit › example.spec.ts › get started link (PASSED)","suite":"playwrightlearning","testcase":"› webkit › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:05.759Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:05.787Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:05.875Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:05.957Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:05.997Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.125Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.177Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.203Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.289Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.331Z","level":"INFO","name":"Merv","msg":"Double click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.370Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.420Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.477Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.591Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.710Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.816Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.851Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.875Z","level":"INFO","name":"Merv","msg":"Test finished —  › firefox › form.spec.ts › test Button Interactions (PASSED)","suite":"playwrightlearning","testcase":"› firefox › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:06.921Z","level":"INFO","name":"Merv","msg":"Double click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:07.021Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:07.161Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:07.202Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:07.222Z","level":"INFO","name":"Merv","msg":"Test finished —  › webkit › form.spec.ts › test Button Interactions (PASSED)","suite":"playwrightlearning","testcase":"› webkit › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:07.902Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Navigate","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:07.911Z","level":"INFO","name":"Merv","msg":"Before Hooks › beforeEach hook › Navigate","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:08.075Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:08.086Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.130Z","level":"INFO","name":"Merv","msg":"Expect \"toHaveTitle\"","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:08.157Z","level":"INFO","name":"Merv","msg":"Fill \"John\"","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:08.169Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.200Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:08.212Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:08.227Z","level":"INFO","name":"Merv","msg":"Fill \"rana.archit12@gmail.com\"","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:08.246Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.298Z","level":"INFO","name":"Merv","msg":"Expect \"toHaveTitle\"","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:08.308Z","level":"INFO","name":"Merv","msg":"Fill \"Password123\"","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:08.317Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.327Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:08.374Z","level":"INFO","name":"Merv","msg":"Fill \"8826448600\"","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:08.383Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.408Z","level":"INFO","name":"Merv","msg":"Expect \"toBeVisible\"","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:08.429Z","level":"INFO","name":"Merv","msg":"Hover","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:08.444Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.479Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:08.486Z","level":"INFO","name":"Merv","msg":"Fill \"25\"","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:08.501Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.558Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.567Z","level":"INFO","name":"Merv","msg":"Test finished —  › chromium › example.spec.ts › has title (PASSED)","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › has title"}
+{"ts":"2026-09-10T15:23:08.578Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:08.610Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.640Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:08.649Z","level":"INFO","name":"Merv","msg":"Test finished —  › chromium › example.spec.ts › get started link (PASSED)","suite":"playwrightlearning","testcase":"› chromium › example.spec.ts › get started link"}
+{"ts":"2026-09-10T15:23:08.652Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.684Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.693Z","level":"INFO","name":"Merv","msg":"Test finished —  › chromium › form.spec.ts › should submit the form successfully (PASSED)","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › should submit the form successfully"}
+{"ts":"2026-09-10T15:23:08.705Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.721Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.740Z","level":"INFO","name":"Merv","msg":"Double click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.757Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.777Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.823Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
+{"ts":"2026-09-10T15:23:08.846Z","level":"INFO","name":"Merv","msg":"Test finished —  › chromium › form.spec.ts › test Button Interactions (PASSED)","suite":"playwrightlearning","testcase":"› chromium › form.spec.ts › test Button Interactions"}
