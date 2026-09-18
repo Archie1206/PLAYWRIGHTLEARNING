@@ -1,7 +1,7 @@
 {
   "extends": "../tsconfig.json",
   "compilerOptions": {
-    "baseUrl": "./",
+    "baseUrl": "./ ",
     "paths": {
       "@playwright/test": [
         "tests/support/playwright-test-bridge.ts"
